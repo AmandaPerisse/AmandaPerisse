@@ -1,4 +1,6 @@
 ### Hello World 👋, I'm Amanda Périssé
+
+I'm determined, motivated and fascinated by technology and innovations. Web Developer Full Stack.
 <!--
 **AmandaPerisse/AmandaPerisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
